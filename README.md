@@ -1,2 +1,2 @@
-# Disease-Predication
-An analysis report of disease prediction using GUI
+# Disease-Prediction
+Industrial Training (Data Analysis using Python)
